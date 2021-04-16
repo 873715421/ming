@@ -12,7 +12,7 @@ cryptography==2.3.1
 Django==1.11.7
 django-celery-results==1.0.4
 django-cors-headers==3.0.2
-django-debug-toolbar==1.10.1
+django-debug-toolbar==1.11.1
 django-redis==4.9.0
 django-redis-cache==2.0.0
 django-tinymce==2.7.0
