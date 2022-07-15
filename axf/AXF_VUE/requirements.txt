@@ -10,7 +10,7 @@ chardet==3.0.4
 Click==7.0
 cryptography==2.3.1
 Django==1.11.7
-django-celery-results==1.0.4
+django-celery-results==2.4.0
 django-cors-headers==3.0.2
 django-debug-toolbar==1.10.1
 django-redis==4.9.0
